@@ -1,2 +1,5 @@
 # CSE439-project
-Design of Compilers (case 3: if statement)
+Design of Compilers
+Case 3: if statement
+
+Phase 1 - DFA, RegEx, token types
